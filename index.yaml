@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  youtube-stats-chart:
+  - apiVersion: v2
+    appVersion: 1.0.5
+    created: "2022-09-23T22:22:49.770835943Z"
+    description: Youtube stats chart
+    digest: bca185a96b05fdfb5f58db99b389bd84ee6828d1b7542b2e8ce90fa8f7fb5945
+    name: youtube-stats-chart
+    type: application
+    urls:
+    - https://github.com/opeomotayo/playground-charts/releases/download/youtube-stats-chart-1.0.5/youtube-stats-chart-1.0.5.tgz
+    version: 1.0.5
+generated: "2022-09-23T22:22:49.770840843Z"
