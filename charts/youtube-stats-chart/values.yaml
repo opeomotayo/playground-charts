@@ -9,7 +9,7 @@ youtubeStatsSettings:
   ytChannelID: ""
 
 image:
-  repository: gmorse81/go-rest-api-kubernetes-example
+  repository: opeomotayo/go-rest-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: ""
